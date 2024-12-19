@@ -46,3 +46,4 @@ website/i18n/**/*
 
 .netlify
 *.swp
+build
