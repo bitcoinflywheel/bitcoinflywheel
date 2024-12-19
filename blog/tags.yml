@@ -1,0 +1,9 @@
+bitcoin:
+  label: Bitcoin 
+  permalink: /bitcoin
+  description: Bitcoin 
+
+flywheel:
+  label: Flywheel
+  permalink: /flywheel
+  description: Flywheel 
